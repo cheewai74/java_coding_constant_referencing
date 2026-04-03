@@ -25,3 +25,5 @@ submiButton.addActionListener(new ActionListener() {
 
 ```
 
+_A button is attached to a button press event through “addActionListener” method. This method accepts “ActionListener” object as an argument, which is an interface with an abstract method “actionPerformed(ActionEvent e)”. So we are using “Anonymous Object” and “Anonymous Class” concepts to provide implementation of “actionPerformed” method._</br>
+
